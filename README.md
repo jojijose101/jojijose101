@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/joji-jose-b44262196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joji-jose-b44262196" height="30" width="40" /></a>
 <a href="https://kaggle.com/jojijose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jojijose" height="30" width="40" /></a>
 <a href="https://fb.com/joji.losser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joji.losser" height="30" width="40" /></a>
-<a href="https://instagram.com/jo___scam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jo___scam" height="30" width="40" /></a>
+<a href="https://instagram.com/jo____scam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jo___scam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
